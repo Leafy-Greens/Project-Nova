@@ -1,0 +1,29 @@
+[
+    {
+      "op":"add",
+            "path":"/primaryRound", 
+            "value" : 
+          {
+              "representativeItem" : "primaryRound",
+              "playerMax" : 9999999
+          }
+    },
+    {
+        "op":"add",
+          "path":"/secondaryRound", 
+          "value" : 
+          {
+            "representativeItem" : "secondaryRound",
+            "playerMax" : 9999999
+          }
+    },
+    {
+        "op":"add",
+          "path":"/energyRound", 
+          "value" : 
+          {
+            "representativeItem" : "energyRound",
+            "playerMax" : 9999999
+          }
+    }
+]
