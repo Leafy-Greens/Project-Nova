@@ -1,0 +1,11 @@
+{
+  "name" : "ProjectNova",
+  "friendlyName" : "Project Nova",
+  "description" : "This is ProjectNova!\n a mod about making starbound different,\nand possibly better!",
+  "author" : "LeafyGreens, KumatoraPSI",
+  "version" : "Alpha 1.0.0",
+  "link" : "https://github.com/Leafy-Greens/Project-Nova",
+  "includes" : [],
+  "requires" : [],
+  "priority" : -9998
+}
